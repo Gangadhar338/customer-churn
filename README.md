@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Customer churn
 
 Clean data, inspect class balance, compare a baseline classifier, report precision/recall, check leakage.
